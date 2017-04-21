@@ -116,7 +116,7 @@
 var map;
 function init() {
     var mapOptions = {
-        center: original google.maps.LatLng(47.0642219, 28.868168),
+        center: new google.maps.LatLng(47.0642219, 28.868168),
         zoom: 15,
         zoomControl: true,
         zoomControlOptions: {
@@ -137,14 +137,14 @@ function init() {
 		}
 
     var mapElement = document.getElementById('map');
-    var map = original google.maps.Map(mapElement, mapOptions);
+    var map = new google.maps.Map(mapElement, mapOptions);
     var locations = [
         ['Boudewijn Ostenstraat 2', 47.0642219, 28.868168]
     ];
     for (i = 0; i < locations.length; i++) {
-        marker = original google.maps.Marker({
+        marker = new google.maps.Marker({
             icon: 'style/images/map-pin.png',
-            position: original google.maps.LatLng(locations[i][1], locations[i][2]),
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
             map: map
         });
     }
@@ -168,9 +168,9 @@ function init() {
         </div>
         <div class="col-sm-4">
           <h3 class="section-title widget-title">Subscribe</h3>
-          <p> Be the first who knows whats original in the house</p>
-          <div class="originalsletter-wrapper">
-            <div id="mc_embed_signup2" class="originalsletter-form">
+          <p> Be the first who knows whats new in the house</p>
+          <div class="newsletter-wrapper">
+            <div id="mc_embed_signup2" class="newsletter-form">
               <form action="http://elemisfreebies.us3.list-manage1.com/subscribe/post?u=ddc180777a163e0f9f66ee014&amp;id=056957de28" method="post" id="mc-embedded-subscribe-form2" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
                 <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL2" placeholder="Enter email" required="">
                 <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -184,7 +184,7 @@ function init() {
             </div>
             <!-- /#mc_embed_signup2 -->
           </div>
-          <!-- /.originalsletter-wrapper -->
+          <!-- /.newsletter-wrapper -->
         </div>
         <div class="col-sm-3">
           <div class="widget">
