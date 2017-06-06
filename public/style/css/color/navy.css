@@ -91,7 +91,7 @@ ul.circled li:before {
 }
 .tabs-top .tab a:hover,
 .tabs-top .tab.active a {
-    color: #43525b
+    color: #205cbe
 }
 .tabs-top.bordered .tab {
     border: 2px solid #43525b;
