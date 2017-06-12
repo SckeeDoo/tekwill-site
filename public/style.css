@@ -370,9 +370,16 @@ footer .inner {
     border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .light-wrapper {
-	background: #f9f9f9;
+    background: #f9f9f9;
     border-bottom: 1px solid rgba(0,0,0,0.1)
 }
+
+.light-wrapper-home {
+    background-image: url("style/animations/wow.svg");
+    background-repeat: no-repeat;
+    border-bottom: 1px solid rgba(0,0,0,0.1)
+}
+
 .inverse-wrapper {
     background: #2c2c2c url(style/images/art/inverse-bg.jpg) repeat;
     color: #cdcdcd;
@@ -4460,13 +4467,14 @@ textarea {
 	}
 	.navbar .basic-wrapper {
 	    width: 100%;
-	    padding-left: 20px;
+	    padding-left: 100px;
 	    padding-right: 20px;
 	    margin: 0 auto;
 	    display: block;
 	}
 	.navbar .navbar-nav > li {
 	    margin-left: 0
+        font-size: 15px;
 	}
 	[class*="col-"] {
 	    margin-bottom: 30px
