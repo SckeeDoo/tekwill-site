@@ -2,42 +2,91 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/rooms/_Z9A0046.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/rooms/_Z9A0084.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/rooms/_Z9A0086.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/rooms/activeCell.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/rooms/hotspot.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/animations/wow.svg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/loadmore.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/portfolio-more.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/portfolio-more2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/portfolio-more3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project10.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project11.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project12.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project13.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project14.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project15.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project16.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project8.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/ajax/project9.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/contact/vanilla-form.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/cbp/cbp-loading-popup.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/cbp/cbp-loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/cbp/cbp-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/cbp/cbp-sprite.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icon-budicon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icon-fontello.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/icon-lulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/script.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/Logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p10-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p11-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p12-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p13-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p14-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p15-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p3-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p4-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p5-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p6-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p7-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p8-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p9-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/p9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pa1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pa2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pa2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pa2-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp1-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp1-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp1-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp2-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp2-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp4-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/art/pp4-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/budicon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/dummy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/logow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/logow@2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/map-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/budicons/budicon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/budicons/budicon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/budicons/budicon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/budicons/budicon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/elemis/dia.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/elemis/dia.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/elemis/dia.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/elemis/dia.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-circle.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-circle.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-circle.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-social.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-social.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-social.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello-social.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/type/fontello/fontello.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/video/office.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/video/office.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/video/office.webm" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/events.html" afterPath="$PROJECT_DIR$/public/events1.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/portfolio.html" afterPath="$PROJECT_DIR$/public/events.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about.html" afterPath="$PROJECT_DIR$/public/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/about_1.html" afterPath="$PROJECT_DIR$/public/about_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog-post.html" afterPath="$PROJECT_DIR$/public/blog-post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog.html" afterPath="$PROJECT_DIR$/public/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact.html" afterPath="$PROJECT_DIR$/public/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/coworking.html" afterPath="$PROJECT_DIR$/public/coworking.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style.css" afterPath="$PROJECT_DIR$/public/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/elements.html" afterPath="$PROJECT_DIR$/public/elements.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/entrepreneurship.html" afterPath="$PROJECT_DIR$/public/entrepreneurship.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/news.html" afterPath="$PROJECT_DIR$/public/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/partners.html" afterPath="$PROJECT_DIR$/public/partners.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/spaces.html" afterPath="$PROJECT_DIR$/public/spaces.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style/css/color/navy.css" afterPath="$PROJECT_DIR$/public/style/css/color/navy.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,51 +104,71 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="coworking.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/coworking.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3645">
-              <caret line="243" column="6" lean-forward="false" selection-start-line="243" selection-start-column="6" selection-end-line="243" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="63" column="104" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="63" selection-end-column="104" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coworking.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/coworking.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="55" column="100" lean-forward="false" selection-start-line="55" selection-start-column="100" selection-end-line="55" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/spaces.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="news.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/news.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="55" column="100" lean-forward="false" selection-start-line="55" selection-start-column="100" selection-end-line="55" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icons.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/style/type/icons.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7125">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="events.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/events.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="7" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+              <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/style.css">
+      <file leaf-file-name="partners.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/partners.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="1382" column="8" lean-forward="false" selection-start-line="1382" selection-start-column="8" selection-end-line="1382" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="73" column="10" lean-forward="true" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="elements.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/elements.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="17" lean-forward="false" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="525">
+              <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -108,11 +177,21 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+            <state relative-caret-position="336">
+              <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
               <folding>
-                <marker date="1495449706000" expanded="true" signature="6440:6458" ph="{&quot;center&quot;: original...}" />
+                <marker date="1497426415000" expanded="true" signature="6543:6561" ph="{&quot;center&quot;: original...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -126,10 +205,12 @@
       <find>icon-s-facebook</find>
       <find>y=&quot;35.9&quot;</find>
       <find>tabs-top</find>
-      <find>nav</find>
-      <find>navbar-nav</find>
       <find>light-wrapper</find>
       <find>zoomIn</find>
+      <find>navbar-nav</find>
+      <find>nav</find>
+      <find>data-filter</find>
+      <find>&lt;li&gt;&lt;a href=&quot;about_1.html&quot;&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,21 +221,24 @@
       <list>
         <option value="$PROJECT_DIR$/public/about2.html" />
         <option value="$PROJECT_DIR$/public/blog5.html" />
-        <option value="$PROJECT_DIR$/public/news.html" />
-        <option value="$PROJECT_DIR$/public/spaces.html" />
-        <option value="$PROJECT_DIR$/public/entrepreneurship.html" />
-        <option value="$PROJECT_DIR$/public/events.html" />
-        <option value="$PROJECT_DIR$/public/about.html" />
         <option value="$PROJECT_DIR$/public/blog4.html" />
-        <option value="$PROJECT_DIR$/public/partners.html" />
         <option value="$PROJECT_DIR$/public/style/js/mySVG.js" />
         <option value="$PROJECT_DIR$/public/style/maps/first_floor.svg" />
         <option value="$PROJECT_DIR$/public/style/maps/second-floor.svg" />
-        <option value="$PROJECT_DIR$/public/style/css/color/navy.css" />
-        <option value="$PROJECT_DIR$/public/coworking.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/about_1.html" />
+        <option value="$PROJECT_DIR$/public/portfolio.html" />
+        <option value="$PROJECT_DIR$/public/style/css/color/navy.css" />
+        <option value="$PROJECT_DIR$/public/blog.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/spaces.html" />
+        <option value="$PROJECT_DIR$/public/entrepreneurship.html" />
+        <option value="$PROJECT_DIR$/public/events.html" />
+        <option value="$PROJECT_DIR$/public/partners.html" />
+        <option value="$PROJECT_DIR$/public/about.html" />
         <option value="$PROJECT_DIR$/public/contact.html" />
+        <option value="$PROJECT_DIR$/public/coworking.html" />
+        <option value="$PROJECT_DIR$/public/news.html" />
       </list>
     </option>
   </component>
@@ -188,6 +272,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,7 +301,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -325,20 +409,24 @@
       <workItem from="1496823199977" duration="568000" />
       <workItem from="1496905817574" duration="1829000" />
       <workItem from="1496924277719" duration="5309000" />
-      <workItem from="1497266833694" duration="898000" />
+      <workItem from="1497266833694" duration="1264000" />
+      <workItem from="1497340225832" duration="540000" />
+      <workItem from="1497356833712" duration="2356000" />
+      <workItem from="1497423179235" duration="3731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41511000" />
+    <option name="totallyTimeSpent" value="48504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -350,7 +438,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -366,33 +453,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/spaces.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1950">
-          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="84" column="47" lean-forward="false" selection-start-line="84" selection-start-column="47" selection-end-line="84" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/images/art/parallax2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/images/art/parallax1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/images/art/slider3-bg2.jpg" />
-    <entry file="file://$PROJECT_DIR$/public/style/images/art/slider-bg1.png" />
-    <entry file="file://$PROJECT_DIR$/public/style/images/art/slider-bg2.jpg" />
     <entry file="file://$PROJECT_DIR$/public/style/images/art/slider2-bg3.jpg" />
     <entry file="file://$PROJECT_DIR$/public/style/images/art/pa2-2.jpg">
       <provider selected="true" editor-type-id="images">
@@ -445,13 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/css/color/navy.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="178" column="23" lean-forward="false" selection-start-line="178" selection-start-column="13" selection-end-line="178" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/style/images/cbp/cbp-loading.gif" />
     <entry file="file://$PROJECT_DIR$/public/style/images/cbp/cbp-loading-popup.gif" />
     <entry file="file://$PROJECT_DIR$/public/style/images/cbp/cbp-sprite.png" />
@@ -482,30 +535,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/partners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="76" lean-forward="false" selection-start-line="25" selection-start-column="76" selection-end-line="25" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/about_1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <marker date="1495449706000" expanded="true" signature="6440:6458" ph="{&quot;center&quot;: original...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/style/animations/wow-animation.svg" />
     <entry file="file://$PROJECT_DIR$/public/style/images/Logo.svg">
       <provider selected="true" editor-type-id="text-editor">
@@ -518,7 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -529,6 +557,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ajax/project2.html" />
+    <entry file="file://$PROJECT_DIR$/public/ajax/loadmore.html" />
+    <entry file="file://$PROJECT_DIR$/public/ajax/project16.html" />
+    <entry file="file://$PROJECT_DIR$/public/ajax/project5.html" />
     <entry file="file://$PROJECT_DIR$/public/elements.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -537,46 +576,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/public/about_1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="165">
+          <caret line="11" column="52" lean-forward="false" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/coworking.html">
+    <entry file="file://$PROJECT_DIR$/public/style/css/color/navy.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3645">
-          <caret line="243" column="6" lean-forward="false" selection-start-line="243" selection-start-column="6" selection-end-line="243" selection-end-column="6" />
+        <state relative-caret-position="336">
+          <caret line="50" column="34" lean-forward="false" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/ajax/project2.html" />
-    <entry file="file://$PROJECT_DIR$/public/ajax/loadmore.html" />
-    <entry file="file://$PROJECT_DIR$/public/ajax/project16.html" />
-    <entry file="file://$PROJECT_DIR$/public/ajax/project5.html" />
     <entry file="file://$PROJECT_DIR$/public/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="1382" column="8" lean-forward="false" selection-start-line="1382" selection-start-column="8" selection-end-line="1382" selection-end-column="8" />
+        <state relative-caret-position="2196">
+          <caret line="4338" column="29" lean-forward="false" selection-start-line="4338" selection-start-column="29" selection-end-line="4338" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="144" column="18" lean-forward="true" selection-start-line="131" selection-start-column="12" selection-end-line="144" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="58" column="50" lean-forward="false" selection-start-line="58" selection-start-column="50" selection-end-line="58" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
+          <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="73" column="10" lean-forward="true" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+        <state relative-caret-position="70">
+          <caret line="39" column="31" lean-forward="true" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="47" column="46" lean-forward="false" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
+          <folding>
+            <marker date="1497426415000" expanded="true" signature="6543:6561" ph="{&quot;center&quot;: original...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="63" column="104" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="63" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/spaces.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/coworking.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="55" column="100" lean-forward="false" selection-start-line="55" selection-start-column="100" selection-end-line="55" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/images/art/b1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/type/icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7125">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="55" column="100" lean-forward="false" selection-start-line="55" selection-start-column="100" selection-end-line="55" selection-end-column="100" />
           <folding />
         </state>
       </provider>

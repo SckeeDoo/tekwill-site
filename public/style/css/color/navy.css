@@ -51,7 +51,7 @@ ul.circled li:before {
 .navbar.fixed .nav > li > a:hover,
 .navbar.fixed .nav > li.current > a,
 .navbar.solid .nav > li > a:hover {
-    color: #43525b !important
+    color: #28a7e9 !important
 }
 .cbp-filter-container .cbp-filter-item:hover {
     color: #43525b
