@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/atic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/ibm-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/microsoft-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/modlcel-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/om-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/orange-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/starnet-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/sweden-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/undp-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/usaid-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/utm-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/partners/white/velopint-01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/coworking.html" afterPath="$PROJECT_DIR$/public/coworking.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/events.html" afterPath="$PROJECT_DIR$/public/events.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/style.css" afterPath="$PROJECT_DIR$/public/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="89" column="64" lean-forward="false" selection-start-line="89" selection-start-column="64" selection-end-line="89" selection-end-column="64" />
+            <state relative-caret-position="780">
+              <caret line="89" column="65" lean-forward="false" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -511,12 +495,12 @@
       <workItem from="1499425236692" duration="1866000" />
       <workItem from="1499427799167" duration="3317000" />
       <workItem from="1499670882774" duration="4624000" />
-      <workItem from="1499678648503" duration="5870000" />
+      <workItem from="1499678648503" duration="6506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66553000" />
+    <option name="totallyTimeSpent" value="67189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -828,8 +812,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="89" column="64" lean-forward="false" selection-start-line="89" selection-start-column="64" selection-end-line="89" selection-end-column="64" />
+        <state relative-caret-position="780">
+          <caret line="89" column="65" lean-forward="false" selection-start-line="89" selection-start-column="65" selection-end-line="89" selection-end-column="65" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
