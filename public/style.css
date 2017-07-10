@@ -1149,10 +1149,10 @@ footer ul.circled li:before {
     padding: 0;
 }
 .revolution {
-    z-index: 998
+    z-index: 100
 }
 .revolution.tp-banner-container {
-	z-index: 996;
+	z-index: 100;
 }
 .revolution btn {
     font-size: 13px
@@ -1674,35 +1674,28 @@ video {
     text-transform: uppercase;
 }
 .timeline-item {
-    padding-bottom: 45px;
+    padding-bottom: 5px;
     position: relative;
 }
-.timeline-item.right {
-    float: right;
-    margin-top: 40px;
-}
+
 .timeline-item .post-content {
-    margin: 20px 20px 0 0;
+    margin: 10px 10px 0 0;
     position: relative;
-    padding: 30px;
+    padding: 20px;
     background: #FFF;
     border: 1px solid rgba(0,0,0,0.1);
     -webkit-transition: all .3s ease-out;
     transition: all .3s ease-out;
 }
 .timeline-item .post-content.classic-view figure {
-    margin-bottom: 20px
+    margin-bottom: 10px
 }
-.timeline-item .post-content p {
-    margin: 0 0 10px 0
-}
-.timeline-item.right .post-content {
-    margin: 20px 0 0 20px
-}
+
+
 .timeline-item .arrow:after,
 .timeline-item .arrow:before {
     left: 100%;
-    top: 90px;
+    top: 30px;
     border: solid transparent;
     content: " ";
     height: 0;
@@ -1744,19 +1737,7 @@ video {
     border-width: 11px;
     margin-top: -11px;
 }
-.timeline-item .post-content:before {
-    display: block;
-    content: "";
-    position: absolute;
-    width: 19px;
-    height: 19px;
-    right: -46px;
-    top: 60px;
-    background: #45be84;
-    border-radius: 50%;
-    -webkit-transition: background .3s ease-out;
-    transition: background .3s ease-out;
-}
+
 .timeline-item.right .post-content:before {
     left: -45px;
     right: auto;
@@ -1805,7 +1786,7 @@ video {
     text-transform: uppercase;
 }
 .timeline-item {
-    padding-bottom: 45px;
+    padding-bottom: 10px;
     position: relative;
 }
 .timeline-item.right {
@@ -3209,7 +3190,7 @@ textarea {
     text-align: center;
     display: table-cell;
     vertical-align: middle;
-    color: #f5f5f5;
+    color: #81f5a4;
     background: none;
     line-height: 1;
     border: 2px solid #aaa;
