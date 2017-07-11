@@ -840,7 +840,15 @@ footer ul.circled li:before {
 .share-links .share-facebook {
     background: #3d5b9b
 }
+
+.share-links .share-facebook-team {
+    background: #3d5b9b
+}
 .share-links .share-facebook:hover {
+    background: #334c8e !important
+}
+
+.share-links .share-facebook-team:hover {
     background: #334c8e !important
 }
 .share-links .share-twitter {
@@ -3211,7 +3219,13 @@ textarea {
     border-color: #faaa5e;
     color: #faaa5e;
 }
-.social .icon-s-facebook {
+
+.social .icon-s-facebook-team {
+    border-color: #205cbe;
+    color: #205cbe;
+}
+
+.social .icon-s-facebook{
     border-color: #f7ffff;
     color: #f7ffff;
 }
@@ -3344,6 +3358,10 @@ textarea {
 .social a:hover .icon-s-facebook {
     background-color: #677fb5
 }
+
+.social a:hover .icon-s-facebook-team {
+    background-color: #677fb5
+}
 .social a:hover .icon-s-twitter {
     background-color: #70c2e9
 }
@@ -3467,6 +3485,10 @@ textarea {
 .share-affix .icon-s-facebook:hover {
     color: #677fb5
 }
+
+.share-affix .icon-s-facebook-team:hover {
+    color: #677fb5
+}
 .share-affix .icon-s-twitter:hover {
     color: #70c2e9
 }
@@ -3513,6 +3535,10 @@ textarea {
     color: #faaa5e
 }
 .navbar .social a:hover .icon-s-facebook {
+    color: #677fb5
+}
+
+.navbar .social a:hover .icon-s-facebook-team {
     color: #677fb5
 }
 .navbar .social a:hover .icon-s-twitter {
