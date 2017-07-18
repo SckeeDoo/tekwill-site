@@ -2,29 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/agenda.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/coffee-cup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/diploma.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/file.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/game-controller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/help.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/house.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/imac.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/medal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/network.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/notebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/robot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/stopwatch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/users.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/view.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/education.html" afterPath="$PROJECT_DIR$/public/education.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/entrepreneurship.html" afterPath="$PROJECT_DIR$/public/entrepreneurship.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/spaces.html" afterPath="$PROJECT_DIR$/public/spaces.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/coworking.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-3d-glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-alarm-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-angry-face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-battery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bookmarks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bowtie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-chats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-coding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-coffee-cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-compass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-credit-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-desktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-documents.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-dollar-coin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-flower-pot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-flower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-folded-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-game-controller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-gauge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-globe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-happy-face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-headphones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-inbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-laptop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lightning-bolt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-location-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-magic-wand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-magnet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-manilla-envelope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-medical-bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-microphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-music-note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-necktie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-notes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-palette.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paper-money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-photos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-pill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-playing-cards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-popcorn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-presentation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shield.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-basket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-soda-pop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-suitcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-sun-glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-support.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tablet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-thermometer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-thumbtack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-toggles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-traffic-cone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-trash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-video-camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-video-clips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-warning-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-web-browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-wrench.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -92,16 +170,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53100">
-              <caret line="3540" column="40" lean-forward="false" selection-start-line="3540" selection-start-column="32" selection-end-line="3540" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="partners.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/partners.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,8 +211,8 @@
       <file leaf-file-name="spaces.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/spaces.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="304" column="66" lean-forward="false" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
+            <state relative-caret-position="61">
+              <caret line="277" column="41" lean-forward="true" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -353,6 +421,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tekwill-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tekwill-site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="icons" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -488,12 +582,12 @@
       <workItem from="1499934997445" duration="7542000" />
       <workItem from="1500015497788" duration="4768000" />
       <workItem from="1500158854764" duration="322000" />
-      <workItem from="1500275288187" duration="4671000" />
+      <workItem from="1500275288187" duration="4917000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115132000" />
+    <option name="totallyTimeSpent" value="115378000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -646,13 +740,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/coworking.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5751">
-          <caret line="487" column="0" lean-forward="false" selection-start-line="487" selection-start-column="0" selection-end-line="487" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/elements.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -802,10 +889,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/coworking.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="304" column="39" lean-forward="false" selection-start-line="304" selection-start-column="39" selection-end-line="304" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/spaces.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="304" column="66" lean-forward="false" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
+        <state relative-caret-position="61">
+          <caret line="277" column="41" lean-forward="true" selection-start-line="277" selection-start-column="41" selection-end-line="277" selection-end-column="41" />
           <folding>
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
