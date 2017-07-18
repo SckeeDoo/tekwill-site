@@ -2,14 +2,371 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/art/academy.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/art/certification.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/programs/academy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/programs/cerfication.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/programs/f5.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-3d-glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-alarm-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-angry-face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bank.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-battery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bell.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bookmarks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-bowtie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-cancel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-chats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-cloud.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-coding.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-coffee-cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-compass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-contacts.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-credit-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-desktop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-documents.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-dollar-coin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-download.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-drawer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-flower-pot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-flower.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-folded-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-game-controller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-gauge.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-globe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-happy-face.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-headphones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-heart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-inbox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-laptop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lightbulb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lightning-bolt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-location-pin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-lock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-magic-wand.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-magnet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-manilla-envelope.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-medical-bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-microphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-music-note.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-necktie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-notes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-palette.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-paper-money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-photos.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-pill.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-playing-cards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-popcorn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-presentation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shield.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-bag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-basket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-soda-pop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-suitcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-sun-glasses.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-support.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tablet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-thermometer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-thumbtack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-toggles.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-traffic-cone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-trash.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-tv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-video-camera.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-video-clips.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-warning-triangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-web-browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/icons/lulu-wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-adhesive-tape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-agenda-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-agenda.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-alarm-clock-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-analytics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-archive-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-atm.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-bank-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-briefcase-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-briefcase-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-briefcase.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-browser-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-browser-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-browser-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-browser-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-building.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-business-cards.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-businessman-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-businessman-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-businessman.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cabinet-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cabinet-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cabinet-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cabinet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calculator-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calculator-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calculator-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calendar-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calendar-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calendar-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-calendar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-chat-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-chat-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-chat-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-check.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-checked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-click.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-clipboard-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-clipboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-clock-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-clock-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-clock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cloud-computing-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cloud-computing-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cloud-computing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-coin-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-compass-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-compass-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-compass.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-computer-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-computer-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-computer-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-computer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-contract-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-contract-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-contract-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-contract-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-contract.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-copy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-credit-card-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-credit-card-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-credit-card-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-credit-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cube-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-cube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-curriculum-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-curriculum.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-desk-lamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-email-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-email-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-exchange-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-exchange-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-exchange-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-exchange.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-export.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-file.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-files.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-film-reel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-flask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-folder.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-garbage-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-garbage.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-goal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-gps.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-growth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-headphones.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-hierarchical-structure-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-hierarchical-structure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-hierarchical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-house.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-id-card.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-idea.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-invoice-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-invoice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-justice.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-key-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-key.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-keyboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-laptop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-lockers.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-loupe.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-mail-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-mail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-man-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-man.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-maze.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-microchip.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-money-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-money-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-money-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-money.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-move.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-networking-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-newspaper-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-newspaper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notebook-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notepad-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notepad-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notepad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-notes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-office-block-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-office-block.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-padlock-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-padlock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pantone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-payment-method.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pen-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pen-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pencil-case.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pendrive-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pendrive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-phone-call.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-picture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pie-chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-podium.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-pound-sterling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-presentation-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-presentation-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-presentation-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-presentation-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-presentation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-printer-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-printer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-profits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-rain.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-safebox-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-safebox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-server.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-settings-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-settings-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-settings-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-settings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-share-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-shopping-basket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone-9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-smartphone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-stairs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-stamp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-startup-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-startup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-stopwatch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-strategy-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-strategy-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-strategy-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-strategy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-tablet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-target.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-tasks.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-tea-cup.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-team-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-team-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-team.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-teamwork-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-teamwork.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-telephone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-think-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-think-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-travel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user-8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-vinyl.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-vision.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-wallet-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-wallet-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-wallet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-work-schedule.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-workspace-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-workspace.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-worldwide-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-worldwide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/png/301-wristwatch.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/education.html" afterPath="$PROJECT_DIR$/public/education.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/entrepreneurship.html" afterPath="$PROJECT_DIR$/public/entrepreneurship.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/spaces.html" afterPath="$PROJECT_DIR$/public/spaces.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +387,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="107" column="87" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="87" />
+            <state relative-caret-position="465">
+              <caret line="106" column="43" lean-forward="true" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -45,8 +402,8 @@
       <file leaf-file-name="entrepreneurship.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="148" column="101" lean-forward="false" selection-start-line="148" selection-start-column="101" selection-end-line="148" selection-end-column="101" />
+            <state relative-caret-position="2496">
+              <caret line="262" column="0" lean-forward="true" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -63,8 +420,8 @@
       <file leaf-file-name="education.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="464" column="52" lean-forward="false" selection-start-line="464" selection-start-column="52" selection-end-line="464" selection-end-column="52" />
+            <state relative-caret-position="651">
+              <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -91,7 +448,7 @@
         <entry file="file://$PROJECT_DIR$/public/partners.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
-              <caret line="85" column="12" lean-forward="true" selection-start-line="68" selection-start-column="2" selection-end-line="85" selection-end-column="12" />
+              <caret line="85" column="12" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="85" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -128,8 +485,8 @@
       <file leaf-file-name="spaces.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/spaces.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9825">
-              <caret line="655" column="47" lean-forward="true" selection-start-line="655" selection-start-column="47" selection-end-line="655" selection-end-column="47" />
+            <state relative-caret-position="105">
+              <caret line="449" column="0" lean-forward="false" selection-start-line="449" selection-start-column="0" selection-end-line="449" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -223,19 +580,19 @@
         <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/public/partners.html" />
         <option value="$PROJECT_DIR$/public/header.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/coworking.html" />
         <option value="$PROJECT_DIR$/public/elements.html" />
         <option value="$PROJECT_DIR$/public/terms.html" />
         <option value="$PROJECT_DIR$/public/blog-post.html" />
         <option value="$PROJECT_DIR$/public/news.html" />
         <option value="$PROJECT_DIR$/public/events.html" />
-        <option value="$PROJECT_DIR$/public/spaces.html" />
         <option value="$PROJECT_DIR$/public/about.html" />
         <option value="$PROJECT_DIR$/public/team.html" />
         <option value="$PROJECT_DIR$/public/ulala.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/public/style/type/icons.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/spaces.html" />
         <option value="$PROJECT_DIR$/public/entrepreneurship.html" />
         <option value="$PROJECT_DIR$/public/education.html" />
       </list>
@@ -253,8 +610,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -272,7 +629,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -339,60 +695,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tekwill-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tekwill-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="programs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tekwill-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tekwill-site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="style" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="art" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,16 +711,16 @@
     <property name="SearchEverywhereHistoryKey" value="facebook&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/style/type" />
+      <recent name="$PROJECT_DIR$/public/style" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/style/images/icon" />
       <recent name="$PROJECT_DIR$/public/style/images/art" />
       <recent name="$PROJECT_DIR$/public/style/images/programs" />
       <recent name="$PROJECT_DIR$/public/style/images/rooms" />
       <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/style/images/partners" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/style/type" />
-      <recent name="$PROJECT_DIR$/public/style" />
     </key>
   </component>
   <component name="RunManager">
@@ -523,21 +828,22 @@
       <workItem from="1499688205037" duration="5304000" />
       <workItem from="1499759558866" duration="24921000" />
       <workItem from="1499934997445" duration="7542000" />
-      <workItem from="1500015497788" duration="4355000" />
+      <workItem from="1500015497788" duration="4768000" />
+      <workItem from="1500158854764" duration="322000" />
+      <workItem from="1500275288187" duration="3928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109726000" />
+    <option name="totallyTimeSpent" value="114389000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21011905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -550,6 +856,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -717,11 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3195">
           <caret line="213" column="18" lean-forward="false" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,7 +1046,7 @@
     <entry file="file://$PROJECT_DIR$/public/partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
-          <caret line="85" column="12" lean-forward="true" selection-start-line="68" selection-start-column="2" selection-end-line="85" selection-end-column="12" />
+          <caret line="85" column="12" lean-forward="false" selection-start-line="68" selection-start-column="2" selection-end-line="85" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -769,18 +1071,6 @@
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/spaces.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9825">
-          <caret line="655" column="47" lean-forward="true" selection-start-line="655" selection-start-column="47" selection-end-line="655" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -812,8 +1102,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="107" column="87" lean-forward="false" selection-start-line="107" selection-start-column="41" selection-end-line="107" selection-end-column="87" />
+        <state relative-caret-position="465">
+          <caret line="106" column="43" lean-forward="true" selection-start-line="106" selection-start-column="43" selection-end-line="106" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -823,10 +1113,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/spaces.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="449" column="0" lean-forward="false" selection-start-line="449" selection-start-column="0" selection-end-line="449" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="148" column="101" lean-forward="false" selection-start-line="148" selection-start-column="101" selection-end-line="148" selection-end-column="101" />
+        <state relative-caret-position="2496">
+          <caret line="262" column="0" lean-forward="true" selection-start-line="262" selection-start-column="0" selection-end-line="262" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -841,8 +1143,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="464" column="52" lean-forward="false" selection-start-line="464" selection-start-column="52" selection-end-line="464" selection-end-column="52" />
+        <state relative-caret-position="651">
+          <caret line="155" column="0" lean-forward="true" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
