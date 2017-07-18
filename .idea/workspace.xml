@@ -2,107 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-3d-glasses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-alarm-clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-angry-face.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bank.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-battery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bell.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bookmarks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bowtie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-briefcase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-building.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-calendar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-chats.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clipboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coding.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coffee-cup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-compass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-contacts.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-credit-card.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-desktop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-documents.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-dollar-coin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-drawer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-eye.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower-pot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folded-map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-game-controller.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gauge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-globe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-graph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-happy-face.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-headphones.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-heart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-home.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-inbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-key.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-laptop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightbulb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightning-bolt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-location-pin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magic-wand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magnet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-manilla-envelope.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-medical-bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-microphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-minus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mobile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-music-note.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-necktie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-notes.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-brush.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-palette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paper-money.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-phone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-photos.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pill.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-playing-cards.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-popcorn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-presentation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-rss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shield.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-bag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-basket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-soda-pop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-suitcase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-sun-glasses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-support.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tablet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tag.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thermometer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thumbtack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-toggles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-traffic-cone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trophy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tv.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-camera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-clips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-warning-triangle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-web-browser.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/agenda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/coffee-cup.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/diploma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/game-controller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/house.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/medal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/network.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/notebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/robot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/stopwatch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/users.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/style/images/icons/view.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/education.html" afterPath="$PROJECT_DIR$/public/education.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/entrepreneurship.html" afterPath="$PROJECT_DIR$/public/entrepreneurship.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/spaces.html" afterPath="$PROJECT_DIR$/public/spaces.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -124,8 +45,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="125" column="116" lean-forward="false" selection-start-line="125" selection-start-column="116" selection-end-line="125" selection-end-column="116" />
+            <state relative-caret-position="-270">
+              <caret line="125" column="117" lean-forward="false" selection-start-line="125" selection-start-column="117" selection-end-line="125" selection-end-column="117" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -139,8 +60,8 @@
       <file leaf-file-name="entrepreneurship.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="117" column="38" lean-forward="false" selection-start-line="117" selection-start-column="38" selection-end-line="117" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="148" column="148" lean-forward="false" selection-start-line="148" selection-start-column="148" selection-end-line="148" selection-end-column="148" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -154,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="education.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="education.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/education.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="129" column="148" lean-forward="false" selection-start-line="129" selection-start-column="148" selection-end-line="129" selection-end-column="148" />
+            <state relative-caret-position="-3240">
+              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -219,11 +140,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/spaces.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="434" column="6" lean-forward="true" selection-start-line="434" selection-start-column="6" selection-end-line="434" selection-end-column="7" />
+            <state relative-caret-position="466">
+              <caret line="304" column="66" lean-forward="false" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -328,10 +249,10 @@
         <option value="$PROJECT_DIR$/public/ulala.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/public/style/type/icons.css" />
-        <option value="$PROJECT_DIR$/public/spaces.html" />
+        <option value="$PROJECT_DIR$/public/education.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/public/entrepreneurship.html" />
-        <option value="$PROJECT_DIR$/public/education.html" />
+        <option value="$PROJECT_DIR$/public/spaces.html" />
       </list>
     </option>
   </component>
@@ -453,11 +374,11 @@
       <recent name="$PROJECT_DIR$/public/style" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/style/images/icons" />
       <recent name="$PROJECT_DIR$/public/style/images/icon" />
       <recent name="$PROJECT_DIR$/public/style/images/art" />
       <recent name="$PROJECT_DIR$/public/style/images/programs" />
       <recent name="$PROJECT_DIR$/public/style/images/rooms" />
-      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="RunManager">
@@ -567,18 +488,18 @@
       <workItem from="1499934997445" duration="7542000" />
       <workItem from="1500015497788" duration="4768000" />
       <workItem from="1500158854764" duration="322000" />
-      <workItem from="1500275288187" duration="4432000" />
+      <workItem from="1500275288187" duration="4671000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114893000" />
+    <option name="totallyTimeSpent" value="115132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -837,22 +758,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/spaces.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="434" column="6" lean-forward="true" selection-start-line="434" selection-start-column="6" selection-end-line="434" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="125" column="116" lean-forward="false" selection-start-line="125" selection-start-column="116" selection-end-line="125" selection-end-column="116" />
+        <state relative-caret-position="-270">
+          <caret line="125" column="117" lean-forward="false" selection-start-line="125" selection-start-column="117" selection-end-line="125" selection-end-column="117" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -864,8 +773,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="117" column="38" lean-forward="false" selection-start-line="117" selection-start-column="38" selection-end-line="117" selection-end-column="38" />
+        <state relative-caret-position="285">
+          <caret line="148" column="148" lean-forward="false" selection-start-line="148" selection-start-column="148" selection-end-line="148" selection-end-column="148" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -880,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/education.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="129" column="148" lean-forward="false" selection-start-line="129" selection-start-column="148" selection-end-line="129" selection-end-column="148" />
+        <state relative-caret-position="-3240">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -889,6 +798,18 @@
             <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/spaces.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="304" column="66" lean-forward="false" selection-start-line="304" selection-start-column="66" selection-end-line="304" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
