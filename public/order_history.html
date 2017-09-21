@@ -79,112 +79,109 @@
 
 
     <div class="container inner">
-
         <div class="row">
-
             <div class="container-fluid">
+
                 <div class="page-header">
                     <h1>Order History</h1>
                 </div>
 
 
-                <div class="row">
-                    <div class="col-sm-12 timeline-item">
-                        <div class="post-content">
-                            <div class="row">
 
-
-                                <div class="col-sm-10">
-                                    <h2 class="post-title">What is SCRUM and how to apply it in practice</h2>
-                                </div>
-
-                                <div class="col-md-2 pull-right">
-                                    <div class="btn btn-default">RENEW BOOKING</div>
-                                </div>
-
-
-                                <div class="col-md-5">
-                                    <dl class="dl-small">
-                                        <dt>Due Date:   <a style="font-weight: 300"> 1 October 2017</a></dt>
-                                    </dl>
-                                </div>
-
-                                <div class="col-md-5">
-                                    <dl class="dl-small">
-                                        <dt>Date Placed:   <a style="font-weight: 300"> 1 October 2017</a></dt>
-                                    </dl>
-                                </div>
-
-                                <div class="col-sm-12">
-                                    <h2 class="meta"><span class="date">12 APRIL</span> <span
-                                            class="category">18:30 - 21:00</span></h2>
-                                </div>
-
-
-                            </div>
-                            <!-- /.row -->
-                        </div>
-                        <!-- /.post-content -->
+                <div class="cbp-panel">
+                    <div id="filters-container" class="cbp-filter-container text-center">
+                        <div data-filter=".booking" class="cbp-filter-item-active cbp-filter-item"> Booking </div>
+                        <div data-filter=".events" class="cbp-filter-item"> Events </div>
                     </div>
-                    <!-- /column -->
+
+                    <div id="grid-container" class="cbp ">
+                        <div class="cbp-item booking">
+                            <div class="box text-center">
+                                <h4 class="post-title"><a href="portfolio-post.html">Malesuada Parturient</a></h4>
+                                <span class="meta category"><a href="#" class="link-effect">Print</a>, <a href="#" class="link-effect">Motion</a></span> </div>
+                            <!--/.box -->
+                        </div>
+                        <!--/.cbp-item -->
+                    </div>
                 </div>
-                <!-- /.row -->
-
-
 
 
 
                 <div class="row">
-                    <div class="col-sm-12 timeline-item">
+                    <div class="col-sm-12 col-xs-12 timeline-item">
+                        <div class="post-content" style="background-color: rgba(0,0,0,0.05)">
+                            <div class="row">
+
+                                <div class="col-sm-2">
+                                    <dt>Item</dt>
+                                </div>
+
+                                <div class="col-sm-2">
+                                    <dt>Date</dt>
+                                </div>
+
+                                <div class="col-sm-2">
+                                    <dt>Due Date</dt>
+                                </div>
+
+                                <div class="col-sm-1">
+                                    <dt>Quantity</dt>
+                                </div>
+
+                                <div class="col-sm-2">
+                                    <dt>Item price</dt>
+                                </div>
+
+                                <div class="col-sm-2">
+                                    <dt>Total price</dt>
+                                </div>
+
+                                <div class="col-sm-1">
+                                    <dt>Option</dt>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 col-xs-12 timeline-item">
                         <div class="post-content">
                             <div class="row">
 
-
-                                <div class="col-sm-10">
-                                    <h2 class="post-title">What is SCRUM and how to apply it in practice</h2>
+                                <div class="col-sm-2">
+                                    <dt>Monthly Fixed</dt>
                                 </div>
 
-                                <div class="col-md-2 pull-right">
-                                    <div class="btn btn-default">RENEW BOOKING</div>
+                                <div class="col-sm-2">
+                                    <dt>09/09/2017</dt>
                                 </div>
 
-
-                                <div class="col-md-5">
-                                    <dl class="dl-small">
-                                        <dt>Due Date:   <a style="font-weight: 300"> 1 October 2017</a></dt>
-                                    </dl>
+                                <div class="col-sm-2">
+                                    <dt>09/10/2017</dt>
                                 </div>
 
-                                <div class="col-sm-12">
-                                    <h2 class="meta"><span class="date">12 APRIL</span> <span
-                                            class="category">18:30 - 21:00</span></h2>
+                                <div class="col-sm-1">
+                                    <dt>2</dt>
                                 </div>
 
-                                <div class="col-md-1">
-                                    <dl class="dl-small pull-right">
-                                        <dt>Quantity:</dt>
-                                        <dt>Quantity:</dt>
-                                        <dt>Quantity:</dt>
-
-                                    </dl>
-                                </div>
-                                <div class="col-md-11 ">
-                                    <dl class="dl-small">
-                                        <dd>2</dd>
-                                        <dd>2</dd>
-                                        <dd>2</dd>
-                                    </dl>
+                                <div class="col-sm-2">
+                                    <dt>2100 MDL</dt>
                                 </div>
 
+                                <div class="col-sm-2">
+                                    <dt>4200 MDL</dt>
+                                </div>
+
+                                <div class="col-sm-1">
+                                    <a href="order_full_stack.html"><span class="label label-default">Renew</span></a>
+                                </div>
 
                             </div>
-                            <!-- /.row -->
                         </div>
-                        <!-- /.post-content -->
                     </div>
-                    <!-- /column -->
                 </div>
-                <!-- /.row -->
 
 
 
@@ -255,67 +252,6 @@
 <script src="style/js/jquery.themepunch.tools.min.js"></script>
 <script src="style/js/scripts.js"></script>
 
-<script>
-    $(document).ready(function () {
-        $('#datePicker')
-            .datepicker({
-                format: 'mm/dd/yyyy'
-            })
-            .on('changeDate', function (e) {
-                // Revalidate the date field
-                $('#eventForm').formValidation('revalidateField', 'eventDate');
-            });
-
-        $('#eventForm')
-            .formValidation({
-                framework: 'bootstrap',
-                icon: {
-                    valid: 'glyphicon glyphicon-ok',
-                    invalid: 'glyphicon glyphicon-remove',
-                    validating: 'glyphicon glyphicon-refresh'
-                },
-                fields: {
-                    name: {
-                        validators: {
-                            notEmpty: {
-                                message: 'The name is required'
-                            }
-                        }
-                    },
-                    eventDate: {
-                        validators: {
-                            notEmpty: {
-                                message: 'The date is required'
-                            },
-                            date: {
-                                format: 'MM/DD/YYYY',
-                                message: 'The date is not a valid'
-                            }
-                        }
-                    }
-                }
-            })
-            .on('success.validator.fv', function (e, data) {
-                if (data.field === 'eventDate' && data.validator === 'date' && data.result.date) {
-                    // The eventDate field passes the date validator
-                    // We can get the current date as a Javascript Date object
-                    var currentDate = data.result.date,
-                        day = currentDate.getDay();
-
-                    // If the selected date is Sunday
-                    if (day === 0) {
-                        // Treat the field as invalid
-                        data.fv
-                            .updateStatus(data.field, data.fv.STATUS_INVALID, data.validator)
-                            .updateMessage(data.field, data.validator, 'Please choose a day except Sunday');
-                    } else {
-                        // Reset the message
-                        data.fv.updateMessage(data.field, data.validator, 'The date is not valid');
-                    }
-                }
-            });
-    });
-</script>
 
 
 </body>
