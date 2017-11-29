@@ -390,7 +390,7 @@ hr {
 }
 .classic-view hr {
     padding-top: 50px;
-    margin-bottom: 90px;
+    margin-bottom: 20px;
 }
 footer hr {
     padding-top: 30px;
@@ -1932,6 +1932,11 @@ video {
 .sidebox {
     margin-top: 50px;
     display: block;
+
+    position: -webkit-sticky;
+    position: fixed;
+    top: 15px;
+
 }
 .sidebox:first-child {
     margin-top: 0
@@ -1944,7 +1949,18 @@ video {
 }
 .sidebar {
     padding-left: 35px !important
+    position: -webkit-sticky;
+    position: fixed;
+    top: 20px;
+
 }
+
+.block {
+    position: -webkit-sticky;
+    position: fixed;
+    top: 20px;
+}
+
 .widget-title {
     font-size: 14px;
     line-height: 18px;
@@ -2530,6 +2546,9 @@ figure a .text-overlay .info span {
 .panel-default > .panel-heading + .panel-collapse .panel-body {
     border: 0
 }
+
+
+
 .panel-default > .panel-heading + .panel-collapse {
     border: 1px solid rgba(0,0,0,0.1);
     border-top: none;
@@ -3832,6 +3851,12 @@ textarea {
     width: 100px;
     height: auto;
 }
+
+
+
+
+
+
 /*-----------------------------------------------------------------------------------*/
 /*	34. DIVIDERS
 /*-----------------------------------------------------------------------------------*/
