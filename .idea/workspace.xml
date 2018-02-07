@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/partners/sweden-01.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style/images/partners/usaid-01.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/partners.html" afterPath="$PROJECT_DIR$/public/partners.html" />
     </list>
@@ -71,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="partners.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="partners.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/partners.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="84" column="106" lean-forward="false" selection-start-line="84" selection-start-column="106" selection-end-line="84" selection-end-column="106" />
+            <state relative-caret-position="375">
+              <caret line="152" column="53" lean-forward="false" selection-start-line="152" selection-start-column="53" selection-end-line="152" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -110,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="182" column="115" lean-forward="false" selection-start-line="182" selection-start-column="115" selection-end-line="182" selection-end-column="115" />
+            <state relative-caret-position="660">
+              <caret line="209" column="51" lean-forward="false" selection-start-line="209" selection-start-column="51" selection-end-line="209" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -220,8 +217,8 @@
         <option value="$PROJECT_DIR$/public/education.html" />
         <option value="$PROJECT_DIR$/public/course.html" />
         <option value="$PROJECT_DIR$/public/course-catalog.html" />
-        <option value="$PROJECT_DIR$/public/partners.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/partners.html" />
       </list>
     </option>
   </component>
@@ -548,12 +545,12 @@
       <workItem from="1514911278578" duration="517000" />
       <workItem from="1514989074108" duration="1658000" />
       <workItem from="1517818652580" duration="1700000" />
-      <workItem from="1518014217292" duration="831000" />
+      <workItem from="1518014217292" duration="1381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267551000" />
+    <option name="totallyTimeSpent" value="268101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1104" extended-state="0" />
@@ -864,18 +861,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/partners.html">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="84" column="106" lean-forward="false" selection-start-line="84" selection-start-column="106" selection-end-line="84" selection-end-column="106" />
+        <state relative-caret-position="660">
+          <caret line="209" column="51" lean-forward="false" selection-start-line="209" selection-start-column="51" selection-end-line="209" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/partners.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="182" column="115" lean-forward="false" selection-start-line="182" selection-start-column="115" selection-end-line="182" selection-end-column="115" />
+        <state relative-caret-position="375">
+          <caret line="152" column="53" lean-forward="false" selection-start-line="152" selection-start-column="53" selection-end-line="152" selection-end-column="53" />
           <folding />
         </state>
       </provider>
