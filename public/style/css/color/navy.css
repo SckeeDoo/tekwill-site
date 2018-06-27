@@ -1,6 +1,21 @@
 /*-----------------------------------------------------------------------------------*/
 /*	MAIN COLOR
 /*-----------------------------------------------------------------------------------*/
+
+
+
+
+
+
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css");
+
+
+
+.table-style .today {background: #2A3F54; color: #ffffff;}
+.table-style th:nth-of-type(7),td:nth-of-type(7) {color: blue;}
+.table-style th:nth-of-type(1),td:nth-of-type(1) {color: red;}
+.table-style tr:first-child th{background-color:#F6F6F6; text-align:center; font-size: 15px;}
+
 a {
     color: #43525b;
 }
@@ -195,7 +210,7 @@ ul.circled li:before {
 .pagination ul > li > a:focus,
 .pagination ul > .active > a,
 .pagination ul > .active > span {
-    background: #324049;
+    background: #00d688;
 }
 /*-----------------------------------------------------------------------------------*/
 /*	RGBA
