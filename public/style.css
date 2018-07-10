@@ -321,15 +321,12 @@ footer .inner {
 }
 .white-wrapper {
     background: #FFF;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .color-wrapper {
     background: rgba(69,190,132,0.8);
-    border-bottom: 1px solid rgba(0,0,0,0.1);
 }
 .light-wrapper {
     background: #f9f9f9;
-    border-bottom: 1px solid rgba(0,0,0,0.1)
 }
 
 .light-wrapper-home {
@@ -610,13 +607,20 @@ footer ul.circled li:before {
 .classic-view .gallery-wrapper {
     margin-bottom: 20px
 }
+
 .carousel-boxed .owl-item .box {
     border-top: 0;
     padding: 23px 20px 10px 20px;
 }
-.carousel-boxed.blog .owl-item .box {
-    padding: 30px;
+
+.carousel-boxed .owl-item .box:hover {
+    box-shadow: 10px 10px;
 }
+
+.box:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
 /*-----------------------------------------------------------------------------------*/
 /*	02. BUTTON
 /*-----------------------------------------------------------------------------------*/
@@ -1257,6 +1261,10 @@ footer ul.circled li:before {
 .owl-carousel .item {
     padding-bottom: 1px;
 }
+
+
+
+
 .owl-controls .owl-nav {
     position: absolute;
     top: 50%;

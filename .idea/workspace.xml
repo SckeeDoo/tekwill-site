@@ -2,23 +2,113 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/events-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/css/calendar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/day.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/events-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/month-day.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/month.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/week-days.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/week.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/year-month.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tmpls/year.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tekwill-site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tekwill-site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/conference-rooms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/cooworking-area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/offices.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-3d-glasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-alarm-clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-angry-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-battery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bookmarks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bowtie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-briefcase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-building.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-calendar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cancel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-chats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clipboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coding.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coffee-cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-compass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-contacts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-credit-card.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-desktop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-documents.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-dollar-coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-drawer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-eye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower-pot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folded-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-game-controller.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gauge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-globe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-happy-face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-headphones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-inbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-laptop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightbulb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightning-bolt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-link.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-location-pin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magic-wand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magnet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-manilla-envelope.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-medical-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-microphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-music-note.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-necktie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-palette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paper-money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pencil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-photos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pill.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-playing-cards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-popcorn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-presentation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shield.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-bag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-basket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-soda-pop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-suitcase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-sun-glasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-support.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thermometer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thumbtack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-toggles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-traffic-cone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-camera.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-clips.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-warning-triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-web-browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-wrench.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/images/rooms/cover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style/css/color/navy.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/css/color/navy.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaces.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -38,8 +128,8 @@
       <file leaf-file-name="events.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="958">
-              <caret line="182" column="25" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="182" selection-end-column="25" />
+            <state relative-caret-position="15">
+              <caret line="182" column="25" selection-start-line="95" selection-start-column="20" selection-end-line="182" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#i#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -50,20 +140,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="events-1.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/events-1.html">
+      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/spaces.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="73" column="74" selection-start-line="73" selection-start-column="74" selection-end-line="73" selection-end-column="74" />
+            <state relative-caret-position="513">
+              <caret line="327" column="28" selection-start-line="327" selection-start-column="28" selection-end-line="327" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calendar.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/style/css/calendar.css">
+      <file leaf-file-name="offices.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/offices.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state relative-caret-position="-1127" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="1264" selection-start-line="1264" selection-end-line="1264" />
             </state>
           </provider>
         </entry>
@@ -81,12 +181,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sidebar</find>
-      <find>timeline-item</find>
-      <find>list-group-item</find>
-      <find>&lt;hr&gt;</find>
-      <find>hr</find>
-      <find>img</find>
       <find>navbar-nav</find>
       <find>panel-body</find>
       <find>pricing</find>
@@ -111,6 +205,12 @@
       <find>17</find>
       <find>calendar</find>
       <find>Mouse</find>
+      <find>table</find>
+      <find>tr</find>
+      <find>td</find>
+      <find>wrapper</find>
+      <find>hover</find>
+      <find>item</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,7 +229,6 @@
         <option value="$PROJECT_DIR$/public/register.html" />
         <option value="$PROJECT_DIR$/public/team.html" />
         <option value="$PROJECT_DIR$/public/terms.html" />
-        <option value="$PROJECT_DIR$/public/spaces.html" />
         <option value="$PROJECT_DIR$/public/style_checkout.css" />
         <option value="$PROJECT_DIR$/public/style/css/color/style.css" />
         <option value="$PROJECT_DIR$/public/checkout_1.html" />
@@ -149,7 +248,6 @@
         <option value="$PROJECT_DIR$/public/f5-internship.html" />
         <option value="$PROJECT_DIR$/public/tekwill-academy.html" />
         <option value="$PROJECT_DIR$/public/checkout.html" />
-        <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/public/course-catalogue.html" />
         <option value="$PROJECT_DIR$/public/hop.xml" />
         <option value="$PROJECT_DIR$/public/education.html" />
@@ -170,6 +268,8 @@
         <option value="$PROJECT_DIR$/public/events.html" />
         <option value="$PROJECT_DIR$/public/style/css/calendar.css" />
         <option value="$PROJECT_DIR$/public/events-1.html" />
+        <option value="$PROJECT_DIR$/public/style.css" />
+        <option value="$PROJECT_DIR$/public/spaces.html" />
       </list>
     </option>
   </component>
@@ -226,7 +326,7 @@
               <item name="tekwill-site" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="style" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,19 +347,19 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/style/images/rooms" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/public/style/images" />
+      <recent name="$PROJECT_DIR$/public/calendar-1" />
+      <recent name="$PROJECT_DIR$/public/calendar" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/public/calendar" />
       <recent name="$PROJECT_DIR$/public/style/css/color" />
       <recent name="$PROJECT_DIR$/public/style/type" />
       <recent name="$PROJECT_DIR$/public/style" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public/calendar-1" />
-      <recent name="$PROJECT_DIR$/public" />
-      <recent name="$PROJECT_DIR$/public/calendar" />
-      <recent name="$PROJECT_DIR$/public/style/images/partners" />
-      <recent name="$PROJECT_DIR$/public/style/images/programs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -466,12 +566,14 @@
       <workItem from="1525354792845" duration="5297000" />
       <workItem from="1525438392020" duration="11111000" />
       <workItem from="1526549216609" duration="3276000" />
-      <workItem from="1530089413229" duration="3433000" />
+      <workItem from="1530089413229" duration="3793000" />
+      <workItem from="1530614450843" duration="2116000" />
+      <workItem from="1531120144494" duration="9108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="301608000" />
+    <option name="totallyTimeSpent" value="313192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -481,19 +583,19 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3288889" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977778" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32977778" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.32957503" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32957503" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -505,40 +607,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/events-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="125" column="29" lean-forward="true" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="2" lean-forward="true" selection-start-line="40" selection-start-column="2" selection-end-line="40" selection-end-column="2" />
-          <folding>
-            <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.json.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/blog-post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
@@ -569,13 +637,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/course-hop.html" />
-    <entry file="file://$PROJECT_DIR$/public/spaces.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="142" column="47" selection-start-line="142" selection-start-column="47" selection-end-line="142" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/tekwill-academy.html" />
     <entry file="file://$PROJECT_DIR$/public/certifications.html" />
     <entry file="file://$PROJECT_DIR$/public/checkout.html">
@@ -648,36 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/components/jquery/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/js/language/template.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/index-bs3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="29" selection-start-line="84" selection-start-column="29" selection-end-line="84" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar/components/jquery/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/public/calendar/js/language/template.js" />
+    <entry file="file://$PROJECT_DIR$/public/calendar/js/app.js" />
+    <entry file="file://$PROJECT_DIR$/public/calendar/index-bs3.html" />
     <entry file="file://$PROJECT_DIR$/public/entrepreneurship.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="699">
@@ -699,13 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="69" column="60" lean-forward="true" selection-start-line="69" selection-start-column="60" selection-end-line="69" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar/index.html" />
     <entry file="file://$PROJECT_DIR$/public/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
@@ -713,28 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.json.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events.json.php" />
     <entry file="file://$PROJECT_DIR$/public/events-2.html" />
-    <entry file="file://$PROJECT_DIR$/public/calendar/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1626">
-          <caret line="253" column="9" selection-start-line="253" selection-start-column="9" selection-end-line="253" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar/css/reset.css" />
+    <entry file="file://$PROJECT_DIR$/public/calendar/css/style.css" />
     <entry file="file://$PROJECT_DIR$/public/style/css/color/navy.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3090">
@@ -742,47 +753,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar-1/fullcalendar-4.0.0-alpha/bin/verify-npm.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar-1/fullcalendar-4.0.0-alpha/demos/basic-views.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/calendar-1/fullcalendar-4.0.0-alpha/demos/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/calendar-1/fullcalendar-4.0.0-alpha/demos/basic-views.html" />
+    <entry file="file://$PROJECT_DIR$/public/calendar-1/fullcalendar-4.0.0-alpha/demos/default.html" />
     <entry file="file://$PROJECT_DIR$/public/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="710" column="11" selection-start-line="710" selection-start-column="5" selection-end-line="710" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="958">
-          <caret line="182" column="25" lean-forward="true" selection-start-line="95" selection-start-column="20" selection-end-line="182" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#a#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,10 +769,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/conference-rooms.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cooworking-area.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/offices.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1127" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/events-1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="73" column="74" selection-start-line="73" selection-start-column="74" selection-end-line="73" selection-end-column="74" />
+        <state relative-caret-position="645">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="182" column="25" selection-start-line="95" selection-start-column="20" selection-end-line="182" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#9;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#10;n#ul#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="1264" selection-start-line="1264" selection-end-line="1264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/spaces.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="327" column="28" selection-start-line="327" selection-start-column="28" selection-end-line="327" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
