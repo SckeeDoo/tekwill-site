@@ -2,113 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27013c5d-aab4-405c-bb50-02a8ce3adac4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/conference-rooms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/cooworking-area.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/offices.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-3d-glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-alarm-clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-angry-face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-battery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bell.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bookmarks.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-bowtie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-briefcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-building.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cancel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-chats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-checkmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clipboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-clock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-cloud.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-coffee-cup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-compass.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-contacts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-credit-card.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-desktop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-documents.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-dollar-coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-drawer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower-pot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folded-map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-folder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-game-controller.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gauge.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-gear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-globe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-happy-face.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-headphones.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-home.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-inbox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-key.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightbulb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lightning-bolt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-location-pin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-lock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magic-wand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-magnet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mail.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-manilla-envelope.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-medical-bag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-microphone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-minus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-mobile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-music-note.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-necktie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-notes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-brush.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paint-palette.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-paper-money.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pencil.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-photos.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-pill.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-playing-cards.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-popcorn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-presentation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shield.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-bag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-basket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-shopping-cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-soda-pop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-star.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-suitcase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-sun-glasses.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-support.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tablet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thermometer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-thumbtack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-toggles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-traffic-cone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-trophy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-tv.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-video-clips.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-warning-triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-web-browser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/icons/lulu-wrench.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/images/rooms/cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/conference-rooms.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/conference-rooms.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/spaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaces.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -140,14 +35,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spaces.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/spaces.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="327" column="28" selection-start-line="327" selection-start-column="28" selection-end-line="327" selection-end-column="28" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="1079">
+              <caret line="151" column="10" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conference-rooms.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/conference-rooms.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -219,7 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/public/login.html" />
         <option value="$PROJECT_DIR$/public/about.html" />
         <option value="$PROJECT_DIR$/public/blog-post.html" />
         <option value="$PROJECT_DIR$/public/contact.html" />
@@ -270,6 +170,7 @@
         <option value="$PROJECT_DIR$/public/events-1.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
         <option value="$PROJECT_DIR$/public/spaces.html" />
+        <option value="$PROJECT_DIR$/public/conference-rooms.html" />
       </list>
     </option>
   </component>
@@ -568,12 +469,12 @@
       <workItem from="1526549216609" duration="3276000" />
       <workItem from="1530089413229" duration="3793000" />
       <workItem from="1530614450843" duration="2116000" />
-      <workItem from="1531120144494" duration="9108000" />
+      <workItem from="1531120144494" duration="9879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313192000" />
+    <option name="totallyTimeSpent" value="313963000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -775,9 +676,6 @@
     <entry file="file://$PROJECT_DIR$/public/style/images/icons/lulu-checkered-flag.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/conference-rooms.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/cooworking-area.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -815,11 +713,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/spaces.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="327" column="28" selection-start-line="327" selection-start-column="28" selection-end-line="327" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1079">
+          <caret line="151" column="10" selection-start-line="151" selection-start-column="10" selection-end-line="151" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/conference-rooms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
         </state>
       </provider>
     </entry>
